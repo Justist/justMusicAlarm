@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">justMusicAlarm</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="cancelAlarm">Cancel Alarm</string>
+    <string name="startAlarm">Start Alarm</string>
+</resources>
